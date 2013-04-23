@@ -1,0 +1,6 @@
+[nemac]
+name=NEMAC Repository
+baseurl=http://dev.nemac.org/yum-repo/$basearch/
+enabled=1
+gpgcheck=0
+protect=1
